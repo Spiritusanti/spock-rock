@@ -52,7 +52,6 @@ function resetAll() {
   playerChoice = '';
   playerChoiceEl.textContent = '';
   computerChoiceEl.textContent = '';
-  resultText.textContent = 'Match Reset!'
 }
 
 window.resetAll = resetAll;
